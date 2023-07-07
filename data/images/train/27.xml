@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>27.jpg</filename>
+	<path>C:\Users\Leyva\OneDrive\Escritorio\recuperacion\object_detection\object-detection\data\images\train\27.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>line</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>53</xmin>
+			<ymin>42</ymin>
+			<xmax>390</xmax>
+			<ymax>226</ymax>
+		</bndbox>
+	</object>
+</annotation>
